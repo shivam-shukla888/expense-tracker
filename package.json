@@ -20,6 +20,6 @@
     "express",
     "sqlite"
   ],
-  "author": "",
+  "author": "Shivam Shukla",
   "license": "MIT"
 }
